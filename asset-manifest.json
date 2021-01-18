@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MichaelBlumMichael/react-movie-search/static/css/main.872aa889.chunk.css",
+    "main.js": "/MichaelBlumMichael/react-movie-search/static/js/main.ae6d3257.chunk.js",
+    "main.js.map": "/MichaelBlumMichael/react-movie-search/static/js/main.ae6d3257.chunk.js.map",
+    "runtime-main.js": "/MichaelBlumMichael/react-movie-search/static/js/runtime-main.34c23296.js",
+    "runtime-main.js.map": "/MichaelBlumMichael/react-movie-search/static/js/runtime-main.34c23296.js.map",
+    "static/js/2.15e4998c.chunk.js": "/MichaelBlumMichael/react-movie-search/static/js/2.15e4998c.chunk.js",
+    "static/js/2.15e4998c.chunk.js.map": "/MichaelBlumMichael/react-movie-search/static/js/2.15e4998c.chunk.js.map",
+    "static/js/3.ce29aa4a.chunk.js": "/MichaelBlumMichael/react-movie-search/static/js/3.ce29aa4a.chunk.js",
+    "static/js/3.ce29aa4a.chunk.js.map": "/MichaelBlumMichael/react-movie-search/static/js/3.ce29aa4a.chunk.js.map",
+    "index.html": "/MichaelBlumMichael/react-movie-search/index.html",
+    "static/css/main.872aa889.chunk.css.map": "/MichaelBlumMichael/react-movie-search/static/css/main.872aa889.chunk.css.map",
+    "static/js/2.15e4998c.chunk.js.LICENSE.txt": "/MichaelBlumMichael/react-movie-search/static/js/2.15e4998c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c23296.js",
+    "static/js/2.15e4998c.chunk.js",
+    "static/css/main.872aa889.chunk.css",
+    "static/js/main.ae6d3257.chunk.js"
+  ]
+}
